@@ -1,2 +1,0 @@
-web: npm run dev-react
-server: npm run dev-express
